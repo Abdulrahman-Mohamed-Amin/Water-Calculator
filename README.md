@@ -1,7 +1,7 @@
 # Water Calculator
 
 Water Calculator is a simple and interactive web-based tool to help users track their daily water consumption and stay hydrated by ensuring they meet the 2-liter daily goal.
- [Project Demo](https://abdulrahman-mohamed-amin.github.io/Water-Calculator/)
+ - [Project Demo](https://abdulrahman-mohamed-amin.github.io/Water-Calculator/)
 
 ## Technologies Used
 - **HTML**: Structure of the web page.
